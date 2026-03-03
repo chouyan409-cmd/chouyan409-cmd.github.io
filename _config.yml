@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SocratesClub / Homepage"
+title                    : "71的个人主页"
 title_separator          : "-"
-name                     : "SocratesClub"
-description              : "We are a small social science lab focusing on computational social science!"
-url                      : https://socratesgroup.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "71"
+description              : "NJU 大数据传播实验班 广泛学习中"
+url                      : https://chouyan409.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "socratesgroup.github.io"
+repository               : "chouyan409.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "SocratesClub"
+  name             : "chouyan409"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "大数据传播实验班，喜欢数据分析，可视化"
+  location         : "南京大学"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "chouyan409@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "socratesclub"
+  github           : "chouyan409-cmd"
   google_plus      :
   keybase          :
   instagram        :
