@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "仇炎"
-  avatar           :"https://github.com/chouyan409-cmd.png"
+  #avatar           :"https://github.com/chouyan409-cmd.png"
   bio              : "大数据传播实验班，喜欢数据分析，可视化，计算中心？"
   location         : "南京大学"
   employer         :
