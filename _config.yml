@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "仇炎的个人主页"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "仇炎"
-description              : "NJU 大数据传播实验班 广泛学习中"
+description              : "NJU 大数据传播实验班 |数据分析&可视化 广泛学习中"
 url                      : https://chouyan409-cmd.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chouyan409-cmd.github.io"
+repository               : "chouyan409-cmd/chouyan409-cmd.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "仇炎"
   avatar           :"https://github.com/chouyan409-cmd.png"
-  bio              : "大数据传播实验班，喜欢数据分析，可视化，计算中心？"
-  location         : "南京大学"
+  bio              : "南京大学大数据传播实验班在读|专注计算传播学、数据可视化|持续学习中"
+  location         : "南京·南京大学"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
