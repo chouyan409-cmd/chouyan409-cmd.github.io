@@ -30,8 +30,8 @@ layout: single
 | 技术实践     | Git / Jekyll / Markdown     | 搭建高效的个人作品与知识展示平台      |
 
 #### 联系与交流
-- 📧 邮箱：your_email 2746936675@qq.com（替换为你的邮箱）
-- 🐱 GitHub：(https://chouyan409-cmd.github.io/markdown/){: .btn}（替换为你的 GitHub 链接）
+- 📧 邮箱：your_email 2746936675@qq.com
+- 🐱 GitHub：(https://chouyan409-cmd.github.io/markdown/){: .btn}
 - 💬 如果你也喜欢文字与数据的碰撞，或是对「向内探索」有共鸣，欢迎交流
 
 {: .notice}
