@@ -33,7 +33,7 @@ layout: single
 | 联系方式 | 详情                                                                 |
 |----------|----------------------------------------------------------------------|
 | 邮箱     | 2746936675@qq.com                         |
-| GitHub   | (https://github.com/chouyan409-cmd.io){: .btn} |
+| GitHub   | ([https://github.com/chouyan409-cmd.io](https://chouyan409-cmd.github.io/)){: .btn} |
 | 交流方向 | 数据新闻、技术写作、向内探索的自我成长                               |
 
 {: .notice}
