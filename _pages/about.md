@@ -30,9 +30,9 @@ layout: single
 
 #### 联系与交流
 - 📧 邮箱：your_email 2746936675@qq.com
-- 🐱 GitHub：(https://chouyan409-cmd.github.io/markdown/){: .btn}
+- 🐱 GitHub：(https://chouyan409-cmd.github.io/markdown/)
 - 💬 如果你也喜欢文字与数据的碰撞，或是对「向内探索」有共鸣，欢迎交流
 
-{: .notice}
+
 这场关于自我的探索，还在继续。
 白水鉴心，步履不停。
